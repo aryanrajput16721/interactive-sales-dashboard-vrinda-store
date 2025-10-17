@@ -32,9 +32,12 @@ The Vrinda Store wants to create an annual sales report for 2022 to better under
 - Created pivot tables to answer key questions
 - Merged all insights into a single interactive dashboard using slicers
 
+
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot] https://github.com/aryanrajput16721/interactive-sales-dashboard-vrinda-store/blob/main/vrinda-store-dashboard.png
+![Dashboard Screenshot 1](https://github.com/aryanrajput16721/interactive-sales-dashboard-vrinda-store/blob/main/vrinda-store-dashboard.png?raw=true)
+
+![Dashboard Screenshot 2](https://github.com/aryanrajput16721/interactive-sales-dashboard-vrinda-store/blob/main/vrinda-store-dashboard2.png?raw=true)
 > This dashboard includes pie charts, bar graphs, line charts, and filters for dynamic analysis.
 
 ## 🔍 Project Insights
